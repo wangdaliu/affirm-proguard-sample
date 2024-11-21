@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.affirm.android.AffirmPromotionButton xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/promo"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    app:affirmColor="AffirmColorTypeBlue"
+    app:affirmLogoType="AffirmDisplayTypeLogo"
+    app:affirmTextColor="@android:color/black"
+    app:affirmTextSize="@dimen/affirm_promotion_size"
+    app:htmlStyling="false" />
